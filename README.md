@@ -2,12 +2,9 @@
 
 Weather check project.
 
-![image](https://github.com/aman-samatov/OpenWeatherFlutter/assets/152772418/855c497a-63ce-413d-9838-6fc8678f5b10)
-![image](https://github.com/aman-samatov/OpenWeatherFlutter/assets/152772418/b70a7226-e50c-45ff-940b-d3c09d915ada)
-![image](https://github.com/aman-samatov/OpenWeatherFlutter/assets/152772418/2a717de7-fccb-41dc-b14d-55c1c16df405)
-
-
-
+<img src="https://github.com/aman-samatov/OpenWeatherFlutter/assets/152772418/855c497a-63ce-413d-9838-6fc8678f5b10" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/aman-samatov/OpenWeatherFlutter/assets/152772418/b70a7226-e50c-45ff-940b-d3c09d915ada" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/aman-samatov/OpenWeatherFlutter/assets/152772418/2a717de7-fccb-41dc-b14d-55c1c16df405" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 ## Getting Started
 
